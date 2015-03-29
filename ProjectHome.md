@@ -1,0 +1,1 @@
+This project is for Election Campaigning.It's mobile application ,which helps both voter and candidate to participate direct or indirectly in election.
